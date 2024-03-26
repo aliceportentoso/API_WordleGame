@@ -1,5 +1,5 @@
 # WordleGame<br>
-## Progetto relativo all'insegnamento "Algoritmi e Principi dell'Informatica" di Ingegneria Informatica al Politecnico di Milano. 2023-2024<br>
+## Progetto relativo all'insegnamento "Algoritmi e Principi dell'Informatica" di Ingegneria Informatica al Politecnico di Milano. 2022-2023<br>
 
 Si chiede di implementare una versione avanzata del noto gioco Wordle. Di seguito le regole.
 <br><br>
