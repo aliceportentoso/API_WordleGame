@@ -4,7 +4,7 @@
 Si chiede di implementare una versione avanzata del noto gioco Wordle. Di seguito le regole.
 <br><br>
 WordChecker<br>
- * L'obiettivo del progetto di quest'anno è di realizzare un sistema che, al suo cuore, controlla la corrispondenza tra le lettere di 2 parole di ugual lunghezza. <br>
+ * Un sistema che, al suo cuore, controlla la corrispondenza tra le lettere di 2 parole di ugual lunghezza. <br>
  * Le parole sono intese come sequenze di simboli che possono essere caratteri alfabetici minuscoli (a-z) o maiuscoli (A-Z), cifre numeriche (0-9), oppure i simboli - (trattino) e _ ("underscore")<br>
  * esempio di parola di 20 simboli: djHD1af9fj7g__l-ssOP<br>
  * Il sistema legge da standard input una sequenza di informazioni e istruzioni, e produce delle stringhe in output a seconda dei casi.<br>
